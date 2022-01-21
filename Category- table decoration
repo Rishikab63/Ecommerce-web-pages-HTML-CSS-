@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Decoration Items</title>
+    <style>
+        body {
+          background-image: url('https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+       
+        .link1 {
+         display: inline-block;
+          background: #ff523b;
+           color: #fff;
+        padding: 20px 20px;
+        margin: 20px, 0;
+        border-radius: 10px;
+        text-decoration: none;
+        }
+        
+        .link2 {
+         display: inline-block;
+          background: #0000FF;
+           color: #fff;
+        padding: 20px 20px;
+        margin: 20px, 0;
+        border-radius: 10px;
+        text-decoration: none;
+        }
+        th, td {
+  padding: 10px;}
+
+  ol{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        height: 80px;
+        line-height: 80px;
+        background-color: rgb(34, 32, 32);
+        font-family: Arial, Helvetica, sans-serif;
+        
+        }
+      
+        </style>
+</head>
+<div class="nav">
+    <ol>
+                <a href=""> <img src="https://homedecorbliss.com/wp-content/uploads/2019/01/gold-home-decor-bliss.png" width="130" height="60"></a></li>
+             
+    </ol>
+    </div>
+
+    <body>
+    <center><font size="25" color="black"><i><b>Table Decoration Items</b></i></font></center>
+        <hr>
+        <img src="https://cdn.shopify.com/s/files/1/2690/0106/products/NSA8new137_900x.jpg?v=1612507247" height="500" width= 100%></center>
+        <center>
+            <table width="70%" cellspacing="4" cellpadding="4">
+                <tr>
+                    <td>
+                        <center><img src="https://canary.contestimg.wish.com/api/webimage/5f0820ce0d1a76291ddd7536-large.jpg?cache_buster=0e8e931a211a24872b520fbdf377368b" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Modern Human Meditators Abstract Lady Face Character Resin Statues Sculpture <br>
+                            Brand: PARADIGM PICTURES</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 4,999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                
+                
+                    <td>
+                        <center><img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1E2qIaDndWuJVso5qmm_mEhRP6bZPpmwJoK-uvOBz2SOS0SegDXnL2icW7T7BGZbKnMmzFfhyL_69uEM5pXpBKJN1tWRt0A&usqp=CAY" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Modern Feather Wooden Decorations Table Fairy Garden Miniature Figurines<br>
+                         Brand: Amazeus</font><br>
+                       <center> <font size="4" color="black">	M.R.P.:	₹ 1999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp<a href="" class="link2">Add to Cart</a><br>    
+                        
+                    </td>
+        
+        
+                    <td>
+                        <center><img src="https://images-na.ssl-images-amazon.com/images/I/51c7190dgPL.jpg" height="280" width="280"></center><br>
+                        <font  size="4" color="black">RV Art Rajasthani Handcrafted Royal Look Wooden and Iron Cycle<br>
+                          Brand: Generic</font><br>
+                       <center> <font size="4" color="black">	M.R.P.:	₹ 1999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp<a href="" class="link2">Add to Cart</a><br>    
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://images-na.ssl-images-amazon.com/images/I/41niKfQao3L.jpg "  height="280" width="280">
+
+                        <font  size="4" color="black">Grey Iron Trumpet Abstract Table Decor Figurine
+                           <br>
+                          Brand:  Vedas</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1899.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://images-na.ssl-images-amazon.com/images/I/81C5DN1AO9L._SX679_.jpg"  height="280" width="280">
+                        <font  size="4" color="black">CASADECOR Metal Table Artifact Showpiece (Silver)<br>
+                            Brand:CASADECOR </font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://cdn.shopify.com/s/files/1/0258/3638/8445/products/dekorcompany4763.jpg?v=1614485865" height="280" width="280"></center><br>
+                        <font  size="4" color="black">The Lotus Yogi Table Decoration Showpiece<br>
+                           
+        Brand: Itmumbai</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 2999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://rukminim1.flixcart.com/image/832/832/kkimfm80/showpiece-figurine/a/v/o/chd-081-candor-original-imafzutraamhekbx.jpeg?q=70" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Naturex Musician Doll - Set of 3 Decorative Antique Unique Metal Traditional Handmade Handicraft Gift Item Home Table Wall Décor Showpiece
+                             <br>
+                             Brand: Naturex</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT99e3lH2Q2kdC0thkwCQCs2Q1PUSzRJMSYxH-bjKMXTQmmqVKJm9UKZfgU3bg6ZAAG6Teja31_Pwh0aTDJJWCt2jd2XRvqU0yexs_5Q04&usqp=CAE" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Copper Metal Musical Showpiece
+                            <br>
+        
+                            Brand: Craft Tree</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1799.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://cdn.shopify.com/s/files/1/2690/0106/products/DecorBirds_12_400x.jpg?v=1613737280" height="300" width="280"></center><br>
+                        <font  size="4" color="black">Decor birds<br>
+                           
+                        Brand: Itmumbai</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 999.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFAjg3XixYbOZXvOJDjKzM0sfzHwCUBnX4f1cC5CssYBQi3Qf_k2Er4HthDafWRO6vI3xhMRc2z2YgD-EpwJsxO5TzCbku5skJt6JmTtov3aoknfKFStCr3Q&usqp=CAE" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Pineapple Decor <br>
+                        Brand: Itmumbai</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1948.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh35GFJXktmgpEQ-wybiaAdtFVuR9drBOzOEoQQd-ML05YrZBlpYyvGBgUs98VxfKDomUn5BjwhqcuixnUDySlUrp1Kj8wrc7y3f_pOdI&usqp=CAE" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Eternity Parrot Table Accent Figurine<br>
+        
+                            Brand: SPK</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 2600.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxRexXLAJLcZeHj621esm76J5kI2cqJQt0nq_fkGrlWbzMTgHkeECceEaId0m53cwBh_a7HfkPt8g9Z6Xdwhs34gy9h46Ikk9Drn7FxqVa8m4VWVPDbD1U&usqp=CAE" height="300" width="280"></center><br>
+                        <font  size="4" color="black">Squid rock crystal brass luxury Home decor sculptures<br>
+                           
+        Brand: Itmumbai</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 6995.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmdjj8lP0ZlaxNSGj6ZD3FxkaPuqOC73Owuf4pVn3JuZDImcuJN3FQXASd0lRciULDupUnro&usqp=CAc" height="280" width="280"></center><br>
+                        <font  size="4" color="black">THEWOODMART Thela Trolly, Rhedi Shape Desi Look (Tea, Coffee, Snacks, Water) Decorative Tray/Platter for Home/Kitchen/Table Decor
+                           
+                            <br>
+                            Brand: THEWOODMART</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1100.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvT39TMe557eX6RyqSd933b3y7FsixaHfj00aPFTfia9imaYgDBtZ0wx5L3g&usqp=CAc" height="280" width="280"></center><br>
+                        <font  size="4" color="black">CASADECOR Metal Artifact Figurines Showpiece for Living Drawing Room Bedroom Shelf Showcase Table Home Decor<br>
+        
+                            Brand: Generic</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1879.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGda0QqvmH6QLF20YoV6ZohqsssizuB6Aug0VBNJ5rJ0WzbQ6PW4vqIb4-3o&usqp=CAc" height="300" width="280"></center><br>
+                        <font  size="4" color="black">BGSA Decor Iron Antique Decorative Showpiece for Home & Office (Set of 3)
+                            <br>
+                           
+                            
+                            Brand: Generic</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1599.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://rukminim1.flixcart.com/image/312/312/k63xle80/showpiece-figurine/z/5/h/musical-owl-set-of-4-owls-home-car-garden-decorative-showpiece-original-imafzmsmfrf5kkyq.jpeg?q=70" height="280" width="280"></center><br>
+                        <font  size="4" color="black">
+                            <br>Xeekart Set of 4 Owls Playing Musical Instruments Showpiece
+                            Brand: Budsnbeau</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 2099.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://rukminim1.flixcart.com/image/312/312/jhwazrk0/showpiece-figurine/v/x/u/msraj503-a-ecraftindia-original-imaexwf2rhgzgyy4.jpeg?q=70" height="280" width="280"></center><br>
+                        <font  size="4" color="black">eCraftIndia Rajasthani Lady using Flour Machine Decorative Showpiece - 12.7 cm  (Polyresin, Orange, Red)</font><br>
+        
+                            Brand: eCraftIndia</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1778.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKiC8BknivWXc4P5bH29GHvAR7yp1OoPxxWtlhsR0FR8FHtbAvSgJsW6OST8&usqp=CAc" height="300" width="280"></center><br>
+                        <font  size="4" color="black">Chocozone Decorative Showpiece - 7.4 cm  (Plastic, Multicolor)
+                            
+                            Brand: Shilcra </font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1299.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6193lTJ21io6Oz_3dRAN1ZWtQGUCvR5oTQNFA7ReICpbqeARgsbdINsk5Yb9BQHZw63GlA8I&usqp=CAc" height="280" width="280"></center><br>
+                        <font  size="4" color="black">BACK TO EARTH
+                            
+                            <br>
+                            Brand: Table Decor</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 790.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoynhYGVz5ocuGRffsJSVRubh9tyasGNBA1M-M6E4Th_1Q45DNifv16l0w7b8&usqp=CAc" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Handicrafts Paradise Metal Rajasthani Musicians Item showpiece 4 x 6 Multicolour, 3 Pieces</font><br>
+        
+                            Brand:Paradise </font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 2850.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://f1af951e8abcbc4c70b9-9997fa854afcb64e87870c0f4e867f1d.lmsin.net/1000008574741-1000008574740_01-710.jpg" height="300" width="280"></center><br>
+                        <font  size="4" color="black">Galaxy Couple Face Figurine
+                             <br>
+                           
+                            
+                             Brand: MetalArt </font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1799.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzcwasuLf73SloGoKdbGDdIuJDlpi3DargXWlmFtrjPbJ8q_HNpAapChTySHI&usqp=CAc" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Galaxy Swirl Abstract Figurine
+                            <br>
+                            Brand: MetalArt</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 499.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://f1af951e8abcbc4c70b9-9997fa854afcb64e87870c0f4e867f1d.lmsin.net/1000003694686-1000003694689_01-710.jpg" height="280" width="280"></center><br>
+                        <font  size="4" color="black">Swan Glass Figurine</font><br>
+        
+                            Brand: Generic</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 599.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a><br>
+                                
+                    </td>
+        
+                    <td>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZy_jaFAtsOzobmPBu62-5_KIPokZ5rU14IckcLsGgkZRzv8T3VvXmg_d3jg&usqp=CAc" height="300" width="280"></center><br>
+                        <font  size="4" color="black">Stellar-Fantasy Swans 2-Pc Table Accent Figurine Set  <br>
+                           
+                            
+                            Brand: Stellar</font><br>
+                            <center> <font size="4" color="black">M.R.P.:	₹ 1679.00</font><br></center>
+                        <a href=""class="link1">Buy Now</a>&nbsp
+                        <a href="" class="link2">Add to Cart</a>
+                                
+                    </td>
+                </tr>
+            </table>
+            <hr>
+        </center>
+
+</body>
+</html>
