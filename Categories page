@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories</title>
+    <style>
+    ol{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        height: 80px;
+        line-height: 80px;
+        background-color: rgb(34, 32, 32);
+        font-family: Arial, Helvetica, sans-serif;
+        
+        }
+     ul{  
+        list-style: none; 
+     }   
+         
+     img {
+  border-radius: 50%;
+  border: 2px solid rgb(22, 22, 22);
+}   
+img {
+  display: inline-block;
+}
+th, td {
+  padding: 10px;}
+  table {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+         
+       
+    </style>
+</head>
+<div class="nav">
+    <ol>
+                <a href=""> <img src="https://homedecorbliss.com/wp-content/uploads/2019/01/gold-home-decor-bliss.png" width="130" height="60"></a></li>
+             
+    </ol>
+    </div>
+<body style="background-color:rgb(237, 245, 191);">
+    
+    <font  size="8" color="black"><b><i><center>Shop by category</center></i></b></font><br>
+    <hr>
+<table  cellspacing="1" cellpadding="1">
+    <tr>
+    <td><center>
+        <ul>
+        <li> <a href="" target="blank"><font size="6" color="black"   >Wind Chimes</a></li>
+         <li>   <a  href="" target="blank"> <img src="https://www.thespruce.com/thmb/L6J2vQloQJ5dWqoVuEUamo_jjms=/735x0/tips-for-the-best-feng-shui-use-of-wind-chimes-1275256-02-22d88c78aa124a18b35d2186991d41a6.jpg" alt="Avatar" width="280" height="280"  > </a>
+        </li>
+           
+    </ul></center>
+    </td>
+    <td><center>
+        <ul>
+        <li> <a href="" target="blank"><font size="6" color="black"   >Table Decoration Items</a></li>
+         <li>   <a  href="" target="blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XM99aGKryEgtVdvVxV01y4IfoPW_d8Wlqg_NEGVJ-LLHP3r8lMBaFeMMQwbwQoge9Cw&usqp=CAU" alt="Avatar" width="280" height="280"  > </a>
+        </li>
+           
+    </ul></center>
+    </td>
+    <td><center>
+        <ul>
+        <li> <a href="" target="blank"><font size="6" color="black"   >Candles And Lanterns</a></li>
+         <li>   <a  href="" target="blank"> <img src="https://media01.living4media.com/largepreviews/MzcxODYxMzY4/11995528-Christmas-arrangement-with-moulded-candles-and-mercury-glass-candle-lanterns.jpg" alt="Avatar" width="280" height="280"  > </a>
+        </li>
+           
+    </ul></center>
+    </td>
+
+    </tr>
+    <tr>
+        <td><center>
+            <ul>
+            <li> <a href="" target="blank"><font size="6" color="black"   >Home Fragnance</a></li>
+             <li>   <a  href="" target="blank"> <img src="https://www.apetogentleman.com/wp-content/uploads/2019/09/home-fragrances.jpg" alt="Avatar" width="280" height="280"  > </a>
+            </li>
+               
+        </ul></center>
+        </td>
+        <td><center>
+            <ul>
+            <li> <a href="" target="blank"><font size="6" color="black"   >Furniture</a></li>
+             <li>   <a  href="" target="blank"> <img src="https://5.imimg.com/data5/IB/XO/MY-40870369/bedroom-furniture-500x500.jpg" alt="Avatar" width="280" height="280"  > </a>
+            </li>
+               
+        </ul></center>
+        </td>
+        <td><center>
+            <ul>
+            <li> <a href="" target="blank"><font size="6" color="black"   >Objects And Figures</a></li>
+             <li>   <a  href="" target="blank"> <img src="https://st.hzcdn.com/fimgs/f9c15d8a0590e3c2_2143-w300-h300-b1-p10--asian-decorative-objects-and-figurines.jpg" alt="Avatar" width="280" height="280"  > </a>
+            </li>
+               
+        </ul></center>
+        </td>
+    </tr>
+    <tr>
+        <td><center>
+            <ul>
+            <li> <a href="" target="blank"><font size="6" color="black"   >Flower Pots</a></li>
+             <li>   <a  href="" target="blank"> <img src="https://www.bhg.com.au/media/34971/flowersinpots-8.jpg?width=720&center=0.0,0.0" alt="Avatar" width="280" height="280"  > </a>
+            </li>
+               
+        </ul></center>
+        </td>
+        <td><center>
+            <ul>
+            <li> <a href="" target="blank"><font size="6" color="black"   >Wall Decoration Items</a></li>
+             <li>   <a  href="" target="blank"> <img src="https://images.homify.com/c_fill,f_auto,q_0,w_740/v1592290266/p/photo/image/3522860/metal-tree.jpg" alt="Avatar" width="280" height="280"  > </a>
+            </li>
+               
+        </ul></center>
+        </td>
+    </tr>
+</table>    
+
+   
+</body>
+</html>
